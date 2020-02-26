@@ -1,23 +1,3 @@
-### ---------------------------------------------------------------------------------------------------------- ###
-### ------------------------------------   Beginning of group20_code.R   ------------------------------------- ###
-### ---------------------------------------------------------------------------------------------------------- ###
-
-### Title         : Statistics and Methodology Group Project
-### Group Number  : 20
-### Group Member  :
-###                 1. Alvaro Melendez Gutierrez    (SNR: 2047635 | ANR: u203902)
-###                 2. Fernando Catala Resquin      (SNR: 2048042 | ANR: u270800)
-###                 3. Francesco Lauria             (SNR: 2041074 | ANR: u819639)
-###                 4. Konstantinos Soiledis        (SNR: 2037001 | ANR: u226393)
-###                 5. Miftahul Ridwan              (SNR: 2040778 | ANR: u989303)
-### Created       : 2019 - Sept - 28
-### Modified      : 2019 - Oct - 9
-
-### ---------------------------------------------------------------------------------------------------------- ###
-### --------------------------------------------   Preliminary   --------------------------------------------- ###
-### ---------------------------------------------------------------------------------------------------------- ###
-# Please kindly set the working directory to this "code" directory
-
 # Defining data directory and load necessary library
 dataDir       <- "../data/"
 filename      <- "wvs_data.rds"
