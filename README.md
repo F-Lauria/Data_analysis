@@ -4,16 +4,14 @@ Data analysis in R with data from Wave 6 of the World Values Survey. Official da
 
 ## Tablet of Contents
 * [General info](#general-info)
-* [Tasks and report](#task-and-report)
 * [Code](#code)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
 ## General info
-This is a university project from the course of [Statistics and Methodology](https://bit.ly/3a48pLh). The overall goal is to choose a set of variables (5) among hundreds of them in the World Values Survey and use these variables in a Multiple Linear Regression (MLR) method for both, inference and prediction. In the first case, the goal is to look for significance effect on *heppiness* while for prediction, the goal is to predict *FinStat*, that is, financial situation.
+This is a university project from the course of Statistics and Methodology from Tilburg University. The overall goal is to choose a set of variables (5) among hundreds of them in the World Values Survey and use these variables in a Multiple Linear Regression (MLR) method for both, inference and prediction. In the first case, the goal is to look for significance effect on *heppiness* while for prediction, the goal is to predict *FinStat*, that is, financial situation.
 
-## Tasks and report
-The full description of the project can be found [here](/docs/Description.pdf). As previously mentioned, there are two main tasks for this project: inference and prediction with MLR. In addition to that, a [report](/docs/Report.pdf) has been done. In the report you can find all the solutions and main insights.   
+The full description of the project can be found [here](/docs/Description.pdf). In addition to that, a [report](/docs/Report.pdf) has been done. In the report you can find all the solutions and main insights.   
 
 ## Code
 * [Data Cleaning](/code/Data_cleaning.R)
