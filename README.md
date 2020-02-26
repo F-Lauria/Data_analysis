@@ -10,3 +10,4 @@ Data analysis in R with data from Wave 6 of the World Values Survey.
 ## General info
 This is a university project from the course of Statistics and Methodology (https://bit.ly/2SYo4Gi). This project is divided as follow:
 
+* [Data Cleaning](/code/Data_cleaning.R)
